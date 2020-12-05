@@ -1,4 +1,4 @@
-These files are no longer available on the Barabasi web site.
+These files apply to basic_protocol_2, and are no longer available on the Barabasi web site.
 
 They *are* available here:
 
